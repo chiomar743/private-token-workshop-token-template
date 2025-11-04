@@ -1,4 +1,13 @@
+Repository: https://github.com/chiomar743/private-token-workshop-token-template.git
 
-# Compliant Private Tokens Workshop - Token Template
+Program Name: chiomar_token.aleo
 
-This is the Leo project scaffolding for the Aleo compliant private tokens workshop.  For more information, head over to the [main repository](https://github.com/alex-aleo/private-token-workshop).
+Deployment address: aleo1zpj3fwknjsqj2wmrdt4wzctgfzy099yz6y6alqpe9vmdehyunc9s294lqe
+
+Deployment txn id: at1h3zlta2zqyv8nkh900h2g0t5pr7z3n6gd6s74egwngjzt4st558s539ukk
+
+Execution txn id: 
+at1ksuduhy94uyxyrwk4uw4qsshkm924q493jf8npudal2k88xq4q8sarzpt5
+at1vz72u0g4t82d7x4ag2chqmn86hexc2sfqvg2pjssxe63rtryxsyswu9tmf
+at1p3f6340h0v0wzfqge3t3nzj5wq42rm70ttkm4az9kama77f9ggqqknmqze
+at1guhlqkv9v0x2ml64lt0cyzfw3hsc886u4x7n0676amqvdqzchy9qzeu5jj
